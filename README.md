@@ -7,7 +7,7 @@ It provides a user-friendly interface for managing admins, users, orders, billin
 
 ## 🚀 Technologies Used
 - **Frontend:** Angular, TypeScript, HTML, CSS  
-- **UI Components:** Angular Material / Bootstrap  
+- **FrameWorks:** Angular, Bootstrap  
 - **State Management:** Angular Services and Interceptors  
 - **API Communication:** HTTPClient with JWT Authorization  
 - **Data Format:** JSON  
